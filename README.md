@@ -7,12 +7,12 @@ un nombre de un amigo ingresado de manera aleatoria.
 
 ## Indice
 
-* [Ingreso de amigos](##Ingreso-de-nombres-de-amigos)
-* [Obtencion de la lista](##Muestra-de-lista-obtenida)
-* [Sorteo de amigos](##Muestra-de-como-sortear)
-* [Obtencion de resultado](##Muestra-de-amigo-sorteado)
-* [Importante](##IMPORTANTE)
-* [Tecnologias](##Tecnologias)
+* [Ingreso de amigos](#Ingreso-de-nombres-de-amigos)
+* [Obtencion de la lista](#Muestra-de-lista-obtenida)
+* [Sorteo de amigos](#Muestra-de-como-sortear)
+* [Obtencion de resultado](#Muestra-de-amigo-sorteado)
+* [Importante](#IMPORTANTE)
+* [Tecnologias](#Tecnologias)
 
 
 
