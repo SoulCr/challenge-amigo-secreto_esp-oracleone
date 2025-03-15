@@ -23,6 +23,7 @@ function agregarAmigo(){
         limpiarCaja();
         
      }else{
+        //piden que ingresen un valor correcto
         alert("Por favor , ingrese un nombre valido");
      }
      
@@ -34,6 +35,7 @@ function agregarAmigo(){
 // Elige un nombre de amigo al azar y muestra su resultado 
 
 function sortearAmigo(){
+    //verificamos que la lista no este vacia
     if(listaAmigos!= 0 ){
         //sorteamos un numero , esto es que genera un numero aleatorio entero , dependiendo de la longitud de la lista , y el numero obtenido es el valor en esa posicion en la lista 
         let AmigoASortear= listaAmigos[Math.floor(Math.random()* listaAmigos.length)];
@@ -55,6 +57,7 @@ function sortearAmigo(){
         resultadoSorteado.appendChild(ResultadoAmigo)
 
     }else{
+        // si la verificacion del if es falsa pide que ingrese nombres para sortear
         alert('No hay amigos para sortear, por favor ingrese nombres!');
     }
 
